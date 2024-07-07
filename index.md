@@ -3,3 +3,6 @@
 ```
 $ pwd
 ```
+- [x] Add Header to the Markdown
+- [x] Add Image to the Markdown
+- [ ] Add List to the Markdown
